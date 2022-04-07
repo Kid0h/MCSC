@@ -1,5 +1,5 @@
 # MCSC: Minecraft Skin Cloner
-A tiny yet powerful Minecraft skin cloner
+A Cross-platform Minecraft skin cloner!
 
 ## Usage
 To use **MCSC** you'll just need to download latest binary for your OS from the [releases](https://github.com/Kid0h/MCSC/releases) (or build from source).
