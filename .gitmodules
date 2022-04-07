@@ -1,0 +1,12 @@
+[submodule "vendor/glfw"]
+	path = vendor/glfw
+	url = https://github.com/glfw/glfw.git
+[submodule "vendor/kidCurl"]
+	path = vendor/kidCurl
+	url = https://github.com/Kid0h/kidCurl.git
+[submodule "vendor/base64"]
+	path = vendor/base64
+	url = https://github.com/zhicheng/base64.git
+[submodule "vendor/nfde"]
+	path = vendor/nfde
+	url = https://github.com/btzy/nativefiledialog-extended
