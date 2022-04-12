@@ -162,8 +162,8 @@ int main(int argc, char* argv[]) {
                 main_window_size_good = true;
                 main_window_size = ImGui::GetWindowSize();
 
-                glfwShowWindow(window); // Show window
                 glfwSetWindowSize(window, (int)main_window_size.x, (int)main_window_size.y); // Resize
+                glfwShowWindow(window); // Show window
             }
 
             ImGui::End();
