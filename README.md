@@ -2,14 +2,14 @@
 A Cross-platform Minecraft skin cloner!
 
 ## Usage
-To use **MCSC** you'll just need to download latest binary for your OS from the [releases](https://github.com/Kid0h/MCSC/releases) (or build from source).
+To use **MCSC** you'll just need to download latest binary for your OS from the [releases](https://github.com/Kid0h/MCSC/releases/latest), or build from source (instructions below).
 
 
 Simply enter the target's Minecraft username and press `ENTER` or click `Clone`
 
 <img src="media/preview.png"/>
 
-You can ever clone multiple skins at once!
+You can even clone multiple skins at once!
 
 <img src="media/preview_multiple.png"/>
 
@@ -30,4 +30,4 @@ cmake -DCURL_INCLUDE_DIR="C:/path/to/curl/include" -DCURL_LIBRARY="C:/path/to/cu
 ```
 
 ## Reaching out
-If you have any issues or questions - you can open an issue [here](https://github.com/Kid0h/MCSnatcher/issues/new)!
+If you have any issues or questions - you can open an issue [here](https://github.com/Kid0h/MCSC/issues/new)!
